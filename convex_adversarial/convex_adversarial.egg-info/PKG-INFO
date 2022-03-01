@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: convex-adversarial
+Version: 0.4.1
+Summary: A library implementing robust loss functions for neural networks. 
+Home-page: https://github.com/locuslab/convex_adversarial
+Author: Eric Wong
+Author-email: ericwong@cs.cmu.edu
+License: MIT
+Description: UNKNOWN
+Platform: any

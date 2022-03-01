@@ -1,0 +1,13 @@
+README.md
+setup.py
+convex_adversarial/__init__.py
+convex_adversarial/dual.py
+convex_adversarial/dual_inputs.py
+convex_adversarial/dual_layers.py
+convex_adversarial/dual_network.py
+convex_adversarial/utils.py
+convex_adversarial.egg-info/PKG-INFO
+convex_adversarial.egg-info/SOURCES.txt
+convex_adversarial.egg-info/dependency_links.txt
+convex_adversarial.egg-info/requires.txt
+convex_adversarial.egg-info/top_level.txt

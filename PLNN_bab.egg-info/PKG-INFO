@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: PLNN-bab
+Version: 0.0.1
+Summary: Branch and Bound
+Home-page: UNKNOWN
+Author: OVAL group, University of Oxford
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Provides-Extra: tests
+Provides-Extra: dev

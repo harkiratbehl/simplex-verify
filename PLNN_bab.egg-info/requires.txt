@@ -1,0 +1,13 @@
+sh
+numpy
+torch
+scipy
+pandas
+
+[dev]
+ipython
+ipdb
+
+[tests]
+mypy
+flake8
