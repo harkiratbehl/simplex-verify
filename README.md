@@ -47,7 +47,7 @@ from [here](http://www.gurobi.com/academia/for-universities).
 We assume the user's Python environment is based on Anaconda.
 
 ```bash
-cd code_simplex_verify
+cd simplex_verify
 
 #Create a conda environment
 conda create -n simplex-verify python=3.6
